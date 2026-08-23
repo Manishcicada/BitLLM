@@ -271,11 +271,10 @@ The complete reference list is available in the project report.
 ---
 
 ## Authors
-
-**Manish Sharma**
-**Aayush Chauhan**
-**Ayush Kumar**
-**Pragyansh Verma**
+**[Manish Sharma](https://github.com/Manishcicada)** ·
+**[Aayush Chauhan](https://github.com/aayush010904)** ·
+**[Ayush Kumar]** ·
+**[Pragyansh Verma](https://github.com/PragyanshDU)**
 
 Department of Electronics & Communication Engineering
 Faculty of Technology, University of Delhi
