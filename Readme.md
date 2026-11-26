@@ -273,7 +273,6 @@ The complete reference list is available in the project report.
 ## Authors
 **[Manish Sharma](https://github.com/Manishcicada)** ·
 **[Aayush Chauhan](https://github.com/aayush010904)** ·
-**[Ayush Kumar](https://github.com/ayush93746)** ·
 **[Pragyansh Verma](https://github.com/PragyanshDU)**
 
 Department of Electronics & Communication Engineering
